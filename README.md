@@ -1,7 +1,8 @@
-# Documentação Final: Disruptive Architectures: IOT, IOB & GENERATIVE IA
+# Documentação Final (Sprint 4): 
+# Disruptive Architectures: IOT, IOB & GENERATIVE IA
 
 
-![Logo](images/DaVinciLogo.jpg)
+![Logo](images/DaVinciLogo.png)
 
 # 👨‍👨‍👧‍👧 Equipe DaVinci
 
@@ -16,7 +17,7 @@
 O projeto tem como objetivo processar dados de feedbacks de usuários que adquiriram produtos ou serviços. A análise desses feedbacks visa extrair insights para que as empresas possam entender as razões das avaliações (sejam elas positivas ou negativas), definir estratégias para melhorar a satisfação dos consumidores e conquistar novos compradores. As avaliações dos clientes são cruciais para a decisão de compra de novos clientes.
 
 
-## IOT: Objetivo Principal da Sprint 4
+## 🎯 IOT: Objetivo Principal da Sprint 4
 
 Apresentar a versão final do projeto desenvolvido, juntamente com uma autocrítica que reflita as experiências, aprendizados e desafios enfrentados ao longo do processo (em conclusão).
 
@@ -28,7 +29,7 @@ Demonstrar as funcionalidades implementadas, tanto no backend em .NET quanto no 
 Apresentar as principais features como o CRUD completo, envio de e-mails para feedbacks ausentes, análise de sentimentos usando ML.NET, autenticação de usuários, registro de compras, e visualização de feedbacks.
 
 
-## Funcionalidades Gerais
+## 🚀 Funcionalidades Gerais
 
 
 - Envio de e-mails solicitando feedback (backend com serviço Sendgrid)
@@ -47,8 +48,9 @@ No projeto backend desenvolvido em .NET, implementamos uma série de funcionalid
 
 Integramos a SendGrid como provedora de envio de e-mails para enviar lembretes de feedback aos clientes que realizaram compras, mas não forneceram avaliação. O FeedbackReminderService.cs é responsável por gerenciar essa funcionalidade, buscando no banco de dados as compras que ainda não têm feedback associado e enviando um e-mail automático lembrando o cliente da importância de sua opinião.
 
-![Exemplo de email](images\net\Email1.png)
-![Email](images\net\Email2.png)
+![Exemplo de email](images/net/Email1.png)
+![Email](images/net/Email2.png)
+
 
 
 😄 **Análise de Sentimentos com ML.NET:**
