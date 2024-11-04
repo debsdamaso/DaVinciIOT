@@ -154,9 +154,11 @@ Consideramos também alguns planos futuros de novas funcionalidades para o proje
 
 - Tornar o aplicativo ainda mais interativo, adicionando uma seção de ofertas especiais e permitindo que os clientes personalizem suas preferências.
 
-- Introduzir um sistema de recompensas para incentivar os clientes a deixarem feedback, oferecendo pontos de fidelidade que poderiam ser trocados por descontos.
+- Aprimorar o envio de emails para além de pedir apenas avaliações de produtos não avaliados, ou seja, seria desenvolver o sistema para enviar mais emails especificos como emails de boas vindas, email enviando um cupom especifico, entre outros.
 
 
-## 📽️ Video Pitch
+## 📽️ Video do Projeto
 
- [📹 YouTube](https://youtube.com/playlist?list=PL1zapSlcAQTdAyAUScqkEolyq5jqjomnd&si=4Yg6hqlYDXdXGVG3)
+Para visualizar o vídeo no youtube, clique abaixo:
+
+[📹 YouTube](https://youtube.com/playlist?list=PL1zapSlcAQTdAyAUScqkEolyq5jqjomnd&si=4Yg6hqlYDXdXGVG3)
