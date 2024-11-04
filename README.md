@@ -47,8 +47,9 @@ No projeto backend desenvolvido em .NET, implementamos uma série de funcionalid
 
 Integramos a SendGrid como provedora de envio de e-mails para enviar lembretes de feedback aos clientes que realizaram compras, mas não forneceram avaliação. O FeedbackReminderService.cs é responsável por gerenciar essa funcionalidade, buscando no banco de dados as compras que ainda não têm feedback associado e enviando um e-mail automático lembrando o cliente da importância de sua opinião.
 
-![Exemplo de email](images\net\Email1.png)
-![Email](images\net\Email2.png)
+![Exemplo de email](images/net/Email1.png)
+![Email](images/net/Email2.png)
+
 
 
 😄 **Análise de Sentimentos com ML.NET:**
